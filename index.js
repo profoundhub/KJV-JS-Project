@@ -15,9 +15,6 @@ app.get('/', function(request, response) {
 app.get('/1CH', function(request, response) {
   response.render('pages/1CH');
 });
-app.get('/latin.css', function(request, response) {
-  response.render('pages/html/latin.css');
-});
 
 app.listen(app.get('port'), function() {
   console.log('Node app is running on port', app.get('port'));
