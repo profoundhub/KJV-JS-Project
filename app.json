@@ -1,8 +1,7 @@
 {
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "name": "KJV Bible Project: Node.js",
+  "description": "KJV Bible Project",
+  "repository": "https://github.com/profoundhub/KJV-JS-Project",  
   "keywords": ["node", "express", "static"],
   "image": "heroku/nodejs"
 }
